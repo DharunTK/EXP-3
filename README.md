@@ -1,4 +1,4 @@
-# EXP-3
+![500113031-bc1e2c5f-ca84-4594-a515-5faa0963d1da](https://github.com/user-attachments/assets/5608b6a1-4283-4619-8a45-6521e3693a6f)# EXP-3
 EXPT NO: 3				STAIR CASE WIRING                     
 
  
@@ -38,13 +38,19 @@ switch2.
 •  Screw the accessories on the board and switch on the supply.
 •  Circuit is tested for all possible combination of switch positions.
 
+Direct connection: CIRCUIT DIAGRAM:
+![500113031-bc1e2c5f-ca84-4594-a515-5faa0963d1da](https://github.com/user-attachments/assets/6fd61cca-5e7e-44c1-821f-309c29291f6c)
 
-Direct connection: CIRCUIT DIAGRAM: 
 Tabulation:1
+![500113066-cbcfe183-eda5-419c-aba1-667b5cb6650e](https://github.com/user-attachments/assets/8a6b02e0-15ba-4a1d-82da-4032e40d0c4a)
+
+
 	
 Cross connection: CIRCUIT DIAGRAM:
+![500113094-9df5b785-c16b-417d-8fa9-3e776945bffc](https://github.com/user-attachments/assets/28641b98-e1fd-4d91-8b1d-0323834ea681)
 
 Tabulation:2
+![500113121-35a3d7a1-727e-4d16-a7b8-fbc424951434](https://github.com/user-attachments/assets/7177948f-3455-425f-9fc7-472624e85fc0)
 
 RESULT:
 Thus the staircase wiring is connected and tested.
